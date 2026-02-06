@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent
 WEBHOOK_DUMP_DIR = BASE_DIR / "webhook_dumps"
 IN_WEBHOOK_CONTEXT = False
 
-OWNER_NOTIFICATION_NUMBER = "+9647701658645"
+OWNER_NOTIFICATION_NUMBER = "+9647738299310"
 NOTIFICATION_INTERVAL_SECONDS = 10  # TEST MODE: notification check every 1 minute
 NOTIFICATION_LOOKAHEAD_DAYS = 30
 STATUS_LABELS = {"overdue": "متأخر", "expiring": "قارب على الانتهاء"}
