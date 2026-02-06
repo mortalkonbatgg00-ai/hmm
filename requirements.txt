@@ -1,0 +1,4 @@
+flask
+supabase
+requests
+python-dateutil
